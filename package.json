@@ -1,7 +1,5 @@
 {
   "name": "nuxt-tailwind",
-  "private": false,
-  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -23,8 +21,6 @@
   "dependencies": {
     "eslint-plugin-nuxt": "^4.0.0"
   },
-  "version": "1.0.0",
-  "main": "app.vue",
   "repository": "git@github.com:Hersh3yy/nuxt-tailwind-base.git",
   "author": "HirenBudhAir <hirenbudhrani@gmail.com>",
   "license": "MIT"
